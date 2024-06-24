@@ -14,3 +14,7 @@ use 20 GoPro Hero to get DATASET
   <img src="https://github.com/kyuminKim00/Multi-view-videos-Dataset/assets/112574294/0521615b-bc8d-4dfb-a862-21aad0e4136e" width="800" height="auto">
 </p>
 
+## DOWNLOAD ##
+```
+https://drive.google.com/file/d/1jaIviZyvFWBlD7bQxVsI_YT61galEoJB/view?usp=drive_link
+```
